@@ -1,0 +1,17 @@
+{
+  "name": "photizo",
+  "version": "1.0.0",
+  "description": "This is Photizo 2024 form",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/main.css -o ./public/styles.css"
+  },
+  "author": "HGBC Influencers web Team",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.7"
+  }
+}
