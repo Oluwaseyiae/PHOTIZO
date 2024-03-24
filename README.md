@@ -1,7 +1,7 @@
 # PHOTIZO
 Photizo 2024
 
-*Usage Steps:*
+#Usage Steps:
 1. Download the repo on your device.
 2. Create a new folder on your device and open it with Vs code.
 3. Install Node.js and tailwind css in you project directory.
